@@ -2,7 +2,7 @@
 
   # Buscador de CEP
 
-  Buscador de CEP criado com HTML, CSS e JS.
+  Buscador de CEP criado com React, HTML, CSS e JS.
 
   <p ><img  src="https://cdn.discordapp.com/attachments/959617161721184280/984607461510094888/Git.jpg" width="70%" alt="imagem" >
 
