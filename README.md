@@ -14,6 +14,11 @@
   </p>
 
   <br> 
+  
+  🧩 Você pode acessar essa aplicação por: <br>
+  https://buscador-de-cep-gray.vercel.app/
+  
+  <br>
 
   🤖 TECNOLOGIAS:
 
